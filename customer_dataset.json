@@ -1,0 +1,107 @@
+{
+    "results": [
+        {
+            "username": "",
+            "id": 1,
+            "products": [
+                {
+                    "product_name": "Spatula",
+                    "url_slug": "12345",
+                    "product_id": 1
+                },
+                {
+                    "product_name": "Pressure Cooker",
+                    "url_slug": "8764",
+                    "product_id": 2
+                },
+                {
+                    "product_name": "Spatula",
+                    "url_slug": "12345",
+                    "product_id": 1
+                },
+                {
+                    "product_name": "Pressure Cooker",
+                    "url_slug": "8764",
+                    "product_id": 2
+                },
+                {
+                    "product_name": "Spatula",
+                    "url_slug": "12345",
+                    "product_id": 1
+                },
+                {
+                    "product_name": "Pressure Cooker",
+                    "url_slug": "8764",
+                    "product_id": 2
+                }
+            ]
+        },
+        {
+            "username": "Ashish Thapa",
+            "id": 2,
+            "products": [
+                {
+                    "product_name": "Spatula",
+                    "url_slug": "12345",
+                    "product_id": 1
+                },
+                {
+                    "product_name": "Pressure Cooker",
+                    "url_slug": "8764",
+                    "product_id": 2
+                },
+                {
+                    "product_name": "Spatula",
+                    "url_slug": "12345",
+                    "product_id": 1
+                },
+                {
+                    "product_name": "Pressure Cooker",
+                    "url_slug": "8764",
+                    "product_id": 2
+                }
+            ]
+        },
+        {
+            "username": "ashish",
+            "id": 4,
+            "products": [
+                {
+                    "product_name": "Spatula",
+                    "url_slug": "12345",
+                    "product_id": 1
+                },
+                {
+                    "product_name": "Pressure Cooker",
+                    "url_slug": "8764",
+                    "product_id": 2
+                },
+                {
+                    "product_name": "Spatula",
+                    "url_slug": "12345",
+                    "product_id": 1
+                },
+                {
+                    "product_name": "Pressure Cooker",
+                    "url_slug": "8764",
+                    "product_id": 2
+                },
+                {
+                    "product_name": "Spatula",
+                    "url_slug": "12345",
+                    "product_id": 1
+                },
+                {
+                    "product_name": "Pressure Cooker",
+                    "url_slug": "8764",
+                    "product_id": 2
+                }
+            ]
+        },
+        {
+            "username": "gov",
+            "id": 5,
+            "products": []
+        }
+    ]
+}
