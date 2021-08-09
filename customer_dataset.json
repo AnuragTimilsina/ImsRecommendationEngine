@@ -1,107 +1,159 @@
 {
     "results": [
         {
-            "username": "",
-            "id": 1,
+            "email": "adarshadon@gmail.com",
             "products": [
                 {
-                    "product_name": "Spatula",
-                    "url_slug": "12345",
-                    "product_id": 1
+                    "product_name": "Dell Inspiron 1400",
+                    "url_slug": "dell_inspiron_1400",
+                    "product_id": 15
                 },
                 {
-                    "product_name": "Pressure Cooker",
-                    "url_slug": "8764",
-                    "product_id": 2
+                    "product_name": "Aqua Hand Band",
+                    "url_slug": "aqua_hand_band",
+                    "product_id": 17
                 },
                 {
-                    "product_name": "Spatula",
-                    "url_slug": "12345",
-                    "product_id": 1
+                    "product_name": "Floyd rose 24 fret.",
+                    "url_slug": "floydrose24",
+                    "product_id": 21
                 },
                 {
-                    "product_name": "Pressure Cooker",
-                    "url_slug": "8764",
-                    "product_id": 2
+                    "product_name": "Adidas Socks",
+                    "url_slug": "adi-socks",
+                    "product_id": 25
                 },
                 {
-                    "product_name": "Spatula",
-                    "url_slug": "12345",
-                    "product_id": 1
+                    "product_name": "Fantech mechanical Keyboard with RGB lights.",
+                    "url_slug": "mechanicalKeyboard",
+                    "product_id": 31
                 },
                 {
-                    "product_name": "Pressure Cooker",
-                    "url_slug": "8764",
-                    "product_id": 2
+                    "product_name": "Keyboard Cover",
+                    "url_slug": "KeyboardCover",
+                    "product_id": 34
+                },
+                {
+                    "product_name": "diper",
+                    "url_slug": "hsi",
+                    "product_id": 45
+                },
+                {
+                    "product_name": "airpod pro",
+                    "url_slug": "airpod",
+                    "product_id": 53
                 }
             ]
         },
         {
-            "username": "Ashish Thapa",
-            "id": 2,
+            "email": "ashish.thapa477@gmail.com",
             "products": [
                 {
-                    "product_name": "Spatula",
-                    "url_slug": "12345",
-                    "product_id": 1
+                    "product_name": "Chopping Board",
+                    "url_slug": "1455",
+                    "product_id": 3
                 },
                 {
-                    "product_name": "Pressure Cooker",
-                    "url_slug": "8764",
-                    "product_id": 2
+                    "product_name": "Coffee Cup",
+                    "url_slug": "mud_cup",
+                    "product_id": 8
                 },
                 {
-                    "product_name": "Spatula",
-                    "url_slug": "12345",
-                    "product_id": 1
-                },
-                {
-                    "product_name": "Pressure Cooker",
-                    "url_slug": "8764",
-                    "product_id": 2
+                    "product_name": "Chicken Pizza",
+                    "url_slug": "0",
+                    "product_id": 27
                 }
             ]
         },
         {
-            "username": "ashish",
-            "id": 4,
+            "email": "ayushdon@gmail.com",
             "products": [
                 {
-                    "product_name": "Spatula",
-                    "url_slug": "12345",
-                    "product_id": 1
+                    "product_name": "Redmi Airdots",
+                    "url_slug": "airdots",
+                    "product_id": 13
                 },
                 {
-                    "product_name": "Pressure Cooker",
-                    "url_slug": "8764",
-                    "product_id": 2
+                    "product_name": "Mobile Cover",
+                    "url_slug": "mobile_cover",
+                    "product_id": 26
                 },
                 {
-                    "product_name": "Spatula",
-                    "url_slug": "12345",
-                    "product_id": 1
+                    "product_name": "MacBook pro 16",
+                    "url_slug": "5282",
+                    "product_id": 33
                 },
                 {
-                    "product_name": "Pressure Cooker",
-                    "url_slug": "8764",
-                    "product_id": 2
+                    "product_name": "Razer Blade 15",
+                    "url_slug": "razer",
+                    "product_id": 37
                 },
                 {
-                    "product_name": "Spatula",
-                    "url_slug": "12345",
-                    "product_id": 1
+                    "product_name": "harry potter",
+                    "url_slug": "jak",
+                    "product_id": 47
                 },
                 {
-                    "product_name": "Pressure Cooker",
-                    "url_slug": "8764",
-                    "product_id": 2
+                    "product_name": "Huawei Watch 8",
+                    "url_slug": "huawei_watch",
+                    "product_id": 50
+                },
+                {
+                    "product_name": "England Jersey Home",
+                    "url_slug": "englandjersey",
+                    "product_id": 66
                 }
             ]
         },
         {
-            "username": "gov",
-            "id": 5,
-            "products": []
+            "email": "sujitdon@gmail.com",
+            "products": [
+                {
+                    "product_name": "Pressure Cooker",
+                    "url_slug": "8764",
+                    "product_id": 2
+                },
+                {
+                    "product_name": "Optical Mouse",
+                    "url_slug": "optical_mouse_nobrand",
+                    "product_id": 10
+                },
+                {
+                    "product_name": "Optical Mouse",
+                    "url_slug": "mouse",
+                    "product_id": 12
+                },
+                {
+                    "product_name": "pampers diaper",
+                    "url_slug": "papmers",
+                    "product_id": 18
+                },
+                {
+                    "product_name": "Lenovo gaming PC",
+                    "url_slug": "lenovopc",
+                    "product_id": 40
+                },
+                {
+                    "product_name": "prince of persia",
+                    "url_slug": "mak",
+                    "product_id": 49
+                },
+                {
+                    "product_name": "padelux ultra premium",
+                    "url_slug": "padelux",
+                    "product_id": 55
+                },
+                {
+                    "product_name": "lightshaber",
+                    "url_slug": "lightshaber",
+                    "product_id": 56
+                },
+                {
+                    "product_name": "Pearl export EXX",
+                    "url_slug": "pearl",
+                    "product_id": 64
+                }
+            ]
         }
     ]
 }
