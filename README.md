@@ -1,6 +1,8 @@
 # ImsRecommendationEngine
 This is a Deep learning model to simulate recommendation engine in inventory management system project. 
 
+# My approach:
+Unlike traditional filtering methods, this technique is effective when a platform only has few customer data in small to medium bussinesses. This approach takes the buying sequence of the customers and defines similarity of the product using word-embeddings. I have used python gensim library for this task. The products can be recommended by taking the sequence of purchase history of the customer and recommending top 10 similar products through the similarity score. The model worked like a charm ;)   
 
 ## Inventory Management System ( IMS ) Ecosystem
 
